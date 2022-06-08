@@ -42,4 +42,4 @@ function f(){
 }
 let [w = f()] = [1]
 
-
+console.log('commit')
